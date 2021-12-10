@@ -6,5 +6,5 @@ int main()
 {
   int a = 8;
   int b = 2;
-  cout << a - b << endl;
+  cout << "Difference is " << a - b << endl;
 }
