@@ -6,5 +6,5 @@ int main()
 {
   int a = 4;
   int b = 6;
-  cout << a + b << endl;
+  cout << "The sum is" << a + b << endl;
 }
